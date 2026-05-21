@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Bean;
 import java.util.Date;
 import java.util.stream.Stream;
 
-@SpringBootApplication
+
 public class HospitalApp {
     public static void main(String[] args) {
         SpringApplication.run(HospitalApp.class, args);
